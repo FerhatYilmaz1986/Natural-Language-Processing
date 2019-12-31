@@ -3,7 +3,8 @@
 ## Producing word embeddings using Word2Vec  
   ### Word Embeddings:  
   When working with text in machine learning models, we need to convert strings into numbers in order to do   calculations with them. Word embeddings provides an efficent way by representing similar words with similar numbers/vectors.  
-    
+  #### Definition of embedding in google glossary :  
+  A categorical feature represented as a continuous-valued feature. Typically, an embedding is a translation of a high-dimensional vector   into a low-dimensional space    
 ## NLP with Deep learning using Tensorflow/Keras  
   
 ## Text Classification using NLTK  
