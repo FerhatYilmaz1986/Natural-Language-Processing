@@ -13,7 +13,7 @@ Pragmatic Analysis
   #### Definition of embedding in google glossary :  
   A categorical feature represented as a continuous-valued feature. Typically, an embedding is a translation of a high-dimensional vector   into a low-dimensional space    
 ## NLP with Deep learning using Tensorflow/Keras  
-  
+ ![NLP with deep learning](/images/deeplearning.png)   
 ## Text Classification using NLTK  
 In this repository I built an algorithm to classify customer reviews and improve quality of service.   
 I used Python's Pandas, NLTK and Scikit-learn libraries.  
