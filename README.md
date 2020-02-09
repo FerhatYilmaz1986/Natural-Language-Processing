@@ -1,5 +1,5 @@
 # Natural Language PRocessing(NLP) :  
-Definition :  
+##Definition :  
 NLP is a way of computers to understand, interpret and manipulate human language.  
 ## Components Of NLP :   
 Morphological and Lexical Analysis
