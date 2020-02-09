@@ -1,4 +1,4 @@
-# Natural Language PRocessing(NLP) :  
+# Natural Language Processing(NLP) :  
 ## Definition :  
 NLP is a way of computers to understand, interpret and manipulate human language.  
 ## Components Of NLP :   
