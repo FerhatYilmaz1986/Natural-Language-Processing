@@ -2,11 +2,11 @@
 ## Definition :  
 NLP is a way of computers to understand, interpret and manipulate human language.  
 ## Components Of NLP :   
-Morphological and Lexical Analysis
-Syntactic Analysis
-Semantic Analysis
-Discourse Integration
-Pragmatic Analysis  
+-   Morphological and Lexical Analysis
+-   Syntactic Analysis
+-   Semantic Analysis
+-   Discourse Integration
+-   Pragmatic Analysis  
   
 ## Producing word embeddings using Word2Vec  
   ### Word Embeddings:  
