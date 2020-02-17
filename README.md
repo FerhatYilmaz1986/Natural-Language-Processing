@@ -20,7 +20,7 @@ NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working
   
   
 ## References  
-    - Scikit-learn documentation  
+    - [Scikit-learn documentation](https://scikit-learn.org)  
     - Tensorflow documentation  
     - Wikipedia  
     
