@@ -16,9 +16,8 @@ NLP is a way of computers to understand, interpret and manipulate human language
 ## NLP with Deep learning using Tensorflow/Keras  
  ![NLP with deep learning](/images/deeplearning.png)   
 ## Text Classification using NLTK  
-In this repository I built an algorithm to classify customer reviews and improve quality of service.   
-I used Python's Pandas, NLTK and Scikit-learn libraries.  
-Purpose is to design a model that predicts whether a customer liked business or not, based on their reviews.  
+NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working in, computational linguistics using Python.
+  
   
 ## References  
     - Scikit-learn documentation  
