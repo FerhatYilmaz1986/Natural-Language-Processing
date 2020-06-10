@@ -22,6 +22,8 @@ NLP is a way of computers to understand, interpret and manipulate human language
 ## Text Classification using NLTK  
 NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working in, computational linguistics using Python.
   
+### Text Classification Applications :  
+-   Recommending  
   
 ## References  
  -  [Scikit-learn documentation](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)  
