@@ -7,7 +7,11 @@ NLP is a way of computers to understand, interpret and manipulate human language
 -   Semantic Analysis
 -   Discourse Integration
 -   Pragmatic Analysis  
-  
+## Text Processing :  
+-   Word extraction  
+-   Stopwords removal  
+-   Stemming/Lemmatization  
+-   Frequency counts / TF-IDF  
 ## Producing word embeddings using Word2Vec  
   ### Word Embeddings:  
   When working with text in machine learning models, we need to convert strings into numbers in order to do   calculations with them. Word embeddings provides an efficent way by representing similar words with similar numbers/vectors.  
