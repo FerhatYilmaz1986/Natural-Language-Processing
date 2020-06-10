@@ -33,7 +33,7 @@ NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working
 -   Document representation  
 -   Dimensionality reduction  
 -   Classifier model  
-  
+-   Semantic representation  
 ## References  
  -  [Scikit-learn documentation](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)  
  -  [Tensorflow documentation](https://www.tensorflow.org/tutorials/text/word_embeddings)  
