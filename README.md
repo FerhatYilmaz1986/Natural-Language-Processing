@@ -25,6 +25,7 @@ NLP is a way of computers to understand, interpret and manipulate human language
  *[NLP with Keras Notebook](/NLP_Tf_Keras.ipynb)  
 ## Text Classification using NLTK  
 NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working in, computational linguistics using Python.  
+  
   *[Text Classification Notebook](/NLTK.ipynb)  
 ### Text Classification Applications :  
 -   Recommending  
