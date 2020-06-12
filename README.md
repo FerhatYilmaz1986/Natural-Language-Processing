@@ -23,8 +23,8 @@ NLP is a way of computers to understand, interpret and manipulate human language
 ## NLP with Deep learning using Tensorflow/Keras  
  ![NLP with deep learning](/images/deeplearning.png)   
 ## Text Classification using NLTK  
-NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working in, computational linguistics using Python.
-  
+NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working in, computational linguistics using Python.  
+  *[Text Classification Notebook](/NLTK.ipynb)
 ### Text Classification Applications :  
 -   Recommending  
 -   Spam filtering  
