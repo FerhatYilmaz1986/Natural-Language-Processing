@@ -11,11 +11,13 @@ NLP is a way of computers to understand, interpret and manipulate human language
 -   Word extraction  
 -   Stopwords removal  
 -   Stemming/Lemmatization  
--   Frequency counts / TF-IDF  
-## Producing word embeddings using Word2Vec  
+-   Frequency counts / TF-IDF (Representation)  
+## Producing word embeddings  
   ### Word Embeddings:  
   When working with text in machine learning models, we need to convert strings into numbers in order to do calculations  
-  with them. Word embeddings provides an efficient way by representing similar words with similar numbers/vectors.  
+  with them.One-hot representation is not a good representation of words because it is very sparse.  
+  Using the Embedding layer creates a dense representation of the vectors.  
+  Word embeddings provides an efficient way by representing similar words with similar numbers/vectors.  
     
   ![Word Embeddings](/images/word2vec.png)  
   #### Definition of embedding in google glossary :  
