@@ -20,7 +20,8 @@ NLP is a way of computers to understand, interpret and manipulate human language
   Word embeddings provides an efficient way by representing similar words with similar numbers/vectors. Idea is clustering  
   words having similar sentiment together in a multi-dimensional space. It prevents having sparse matrix with huge number  
   of features to represent text data. For example, with word embedding, word 'dog' has a specific n dimensional vector  
-  representing it. The word 'husky' is going to have a very similar vector to the ve3ctor of 'dog'. 
+  representing it. The word 'husky' is going to have a very similar vector to the vector of 'dog', showing semantic  
+  distance between these two words. 
     
   ![Word Embeddings](/images/word2vec.png)  
   #### Definition of embedding in google glossary :  
