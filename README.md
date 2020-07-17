@@ -17,7 +17,9 @@ NLP is a way of computers to understand, interpret and manipulate human language
   When working with text in machine learning models, we need to convert strings into numbers in order to do calculations  
   with them.One-hot representation is not a good representation of words because it is very sparse.  
   Using the Embedding layer creates a dense representation of the vectors.  
-  Word embeddings provides an efficient way by representing similar words with similar numbers/vectors.  
+  Word embeddings provides an efficient way by representing similar words with similar numbers/vectors. Idea is clustering  
+  words having similar sentiment together in a multi-dimensional space. It prevents having sparse matrix with huge number  
+  of features to represent text data.   
     
   ![Word Embeddings](/images/word2vec.png)  
   #### Definition of embedding in google glossary :  
