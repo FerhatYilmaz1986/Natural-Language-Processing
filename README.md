@@ -28,7 +28,7 @@ NLP is a way of computers to understand, interpret and manipulate human language
   A categorical feature represented as a continuous-valued feature. Typically, an embedding is a translation of a high-dimensional vector   into a low-dimensional space    
 ## NLP with Deep learning using Tensorflow/Keras  
  ![NLP with deep learning](/images/deeplearning.png)  
- *[NLP with Keras Notebook](/NLP_Tf_Keras.ipynb)  
+ *[NLP with Keras Notebook using Subwords(Pre-tokenized dataset)](/NLP_Tf_Keras.ipynb)  
 ## Text Classification using NLTK  
 NLTK stands for Natural Language Tool Kit.It is a tool for teaching, and working in, computational linguistics using Python.  
   
